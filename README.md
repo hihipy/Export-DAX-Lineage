@@ -21,9 +21,7 @@ A Tabular Editor macro that exports all DAX measures and calculated columns from
 
 1. **Download the script**: Save the code as `Export-DAX-Lineage.csx` in your preferred location
 
-2. Option 1 - Load as Script
-
-   :
+2. Option 1 - Load as Script:
 
    - Open Tabular Editor with your Power BI model
    - Go to **Advanced Scripting** tab
@@ -31,9 +29,7 @@ A Tabular Editor macro that exports all DAX measures and calculated columns from
    - Select `Export-DAX-Lineage.csx`
    - Click **Run**
 
-3. Option 2 - Create Custom Action
-
-    (Recommended):
+3. Option 2 - Create Custom Action (Recommended):
 
    - In Tabular Editor: **File** → **Preferences** → **Custom Actions**
    - Click **Add** and paste the code
